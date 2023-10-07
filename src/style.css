@@ -80,5 +80,8 @@ form input{
     margin-right:15px ;    
 }
 
+li input{
+    flex: 1;
+}
 
 /* test     */
